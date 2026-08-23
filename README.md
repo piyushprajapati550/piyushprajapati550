@@ -1,4 +1,4 @@
-Hi, I'm Piyush 👋
+Hi, I'm Piyush Prajapati
 
 I'm an ECE undergraduate interested in RTL Design, FPGA Development, and Digital IC Design.
 
