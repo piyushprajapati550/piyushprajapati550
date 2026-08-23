@@ -27,6 +27,3 @@ Voltage Controlled Oscillator — CMOS VCO design and simulation.
 Currently Exploring
 
 High-speed multiplier architectures · SystemVerilog · FPGA timing optimization · ASIC front-end design · RTL verification
-
-
-Thanks for visiting my profile.
