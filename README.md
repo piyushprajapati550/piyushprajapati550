@@ -28,11 +28,5 @@ Currently Exploring
 
 High-speed multiplier architectures · SystemVerilog · FPGA timing optimization · ASIC front-end design · RTL verification
 
-Let's Connect
-
-Email: **piyushprajapati550@gmail.com**
-
-LinkedIn:
-https://linkedin.com/in/piyush550
 
 Thanks for visiting my profile.
