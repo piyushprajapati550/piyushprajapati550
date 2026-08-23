@@ -13,10 +13,10 @@ RTL Verification
 CMOS Circuit Design
 Tech Stack
 
-HDL & Programming: Verilog, C, Python
+HDL & Programming: Verilog,VHDL,Python
 Tools: Xilinx Vivado, Cadence Virtuoso
 Hardware: Basys3 FPGA
-Other: Git, GitHub
+
 
 Projects
 Carry Look-Ahead Adder — Verilog implementation with simulation and synthesis.
