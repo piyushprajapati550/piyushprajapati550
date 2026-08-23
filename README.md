@@ -1,79 +1,38 @@
-# Hi, I'm Piyush Prajapati
+Hi, I'm Piyush 👋
 
-I'm an Electronics and Communication Engineering undergraduate with a strong interest in RTL Design, FPGA Prototyping, and Digital IC Design.
+I'm an ECE undergraduate interested in RTL Design, FPGA Development, and Digital IC Design.
 
-Over the past few months, I've been building digital hardware projects in Verilog HDL, implementing them on Xilinx FPGAs, and exploring CMOS circuit design using Cadence Virtuoso. I enjoy understanding how digital systems work from RTL to hardware implementation and continuously work on improving my design and verification skills.
+Recently, I've been working with Verilog HDL, Xilinx Vivado, Basys3 FPGA, and Cadence Virtuoso—building digital designs, implementing them on FPGA, and exploring CMOS circuits.
 
-## Areas of Interest
+What I'm Interested In
+RTL & ASIC Front-End Design
+FPGA Development
+Digital Logic & FSM Design
+Timing Analysis and Optimization
+RTL Verification
+CMOS Circuit Design
+Tech Stack
 
-- RTL Design
-- FPGA Development
-- ASIC Front-End Design
-- Digital Logic Design
-- CMOS Circuit Design
-- Digital Verification
+HDL & Programming: Verilog, C, Python
+Tools: Xilinx Vivado, Cadence Virtuoso
+Hardware: Basys3 FPGA
+Other: Git, GitHub
 
-## Technical Skills
+Projects
+Carry Look-Ahead Adder — Verilog implementation with simulation and synthesis.
+Traffic Light Controller — FSM-based controller implemented on Basys3 FPGA.
+Universal Shift Register — Supports serial and parallel operations.
+6T SRAM Cell — Designed and simulated using Cadence Virtuoso.
+Voltage Controlled Oscillator — CMOS VCO design and simulation.
+Currently Exploring
 
-**Hardware Description Languages**
-- Verilog HDL
+High-speed multiplier architectures · SystemVerilog · FPGA timing optimization · ASIC front-end design · RTL verification
 
-**FPGA Tools**
-- Xilinx Vivado
-- Basys3 FPGA
-
-**VLSI Tools**
-- Cadence Virtuoso
-
-**Concepts**
-- Finite State Machines
-- Sequential & Combinational Logic
-- Timing Analysis
-- FPGA Synthesis & Implementation
-- CMOS Design
-
-**Programming**
-- C
-- Python (Basic)
-
-**Version Control**
-- Git
-- GitHub
-
-## Featured Projects
-
-### Carry Look Ahead Adder
-Designed and implemented a high-speed Carry Look Ahead Adder in Verilog HDL with simulation and synthesis.
-
-### Traffic Light Controller
-Finite State Machine based traffic controller implemented on Basys3 FPGA.
-
-### Universal Shift Registers
-Universal shift register supporting serial and parallel operations using Verilog.
-
-### 6T SRAM Cell
-Designed and simulated a CMOS 6T SRAM cell using Cadence Virtuoso.
-
-### Voltage Controlled Oscillator
-Analog CMOS VCO designed and verified in Cadence.
-
-
-## Currently Working On
-
-- High-speed Multiplier Architectures
-- FPGA Timing Optimization
-- SystemVerilog
-- ASIC Front-End Design
-- RTL Verification
-
-
-## Connect With Me
+Let's Connect
 
 Email: **piyushprajapati550@gmail.com**
 
 LinkedIn:
 https://linkedin.com/in/piyush550
-
----
 
 Thanks for visiting my profile.
